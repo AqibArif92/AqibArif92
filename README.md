@@ -44,7 +44,7 @@
 
 ---
 
-## 📜 About Me
+<!-- ## 📜 About Me
 
 I'm an MSc Data Science graduate with an MBA and hands-on experience building data pipelines, dashboards, and BI reporting tools. I love turning messy data into clear, actionable insights that drive business performance.
 
@@ -53,7 +53,7 @@ I'm an MSc Data Science graduate with an MBA and hands-on experience building da
 🔗 [LinkedIn Profile](https://linkedin.com/in/aqibk)
 
 ---
-
+-->
 ## 🧠 How to Use This Portfolio
 
 Each project folder contains:
