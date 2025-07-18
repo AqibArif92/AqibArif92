@@ -1,8 +1,8 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 Welcome to my portfolio of data analytics projects. These projects showcase my skills in data cleaning, analysis, dashboarding, and business intelligence using tools like SQL, Power BI, Tableau, and Python.
 
 ---
-
+-->
 ## 🔧 Tools & Technologies
 - **Languages**: SQL, Python
 - **Visualization**: Power BI, Tableau
